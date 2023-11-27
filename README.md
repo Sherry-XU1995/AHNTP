@@ -1,7 +1,7 @@
 # AHNTP
 ##### This is code for our paper《Adaptive Hypergraph Networks for Trust Prediction》
 
-##### Before to execute HMGCL, it is necessary to install the following packages:
+##### Before to execute AHNTP, it is necessary to install the following packages:
 ##### pip install dhg
 ##### pip install torch
 ##### pip install scikit-learn
