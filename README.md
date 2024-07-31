@@ -14,4 +14,4 @@
 ##### python == 3.8.13
 
 # Basic Usage
-##### Run main.py to train the AHNTP. and it needs at least 24G GPU memory.
+##### Run main.py to train the AHNTP and it needs at least 24G GPU memory.
